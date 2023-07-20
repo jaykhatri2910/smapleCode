@@ -1,0 +1,23 @@
+{
+  "name": "smapleCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaykhatri2910/smapleCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaykhatri2910/smapleCode/issues"
+  },
+  "homepage": "https://github.com/jaykhatri2910/smapleCode#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -1,0 +1,17 @@
+node_modules
+build
+coverage
+.env*
+urlcheck.js
+videos
+.gitconfig
+newrelic_agent.log
+
+npm-shrinkwrap.json
+
+## Aws artifacts and configs
+.ebextensions
+.elasticbeanstalk
+artifacts
+yarn.lock
+1_set.sh
